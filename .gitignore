@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.npy
+*.tif
+*.tiff
+data/
+work_dirs/
+*.log
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
